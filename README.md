@@ -1,5 +1,4 @@
 # song-wind
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
